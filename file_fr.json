@@ -2,6 +2,8 @@
   "1_json": "one_json",
   "2_json": "deux_json",
   "pre2_monday_qwe_counter": "lundi",
-  "pre2_tuesday_qwe_counter": "mardi",
-  "pre2_wednesda_qwe_counter": "mercredi"
+  "tuesd_edit": "mardi",
+  "pre2_wednesda_qwe_counter": "mercredi",
+  "pre2_sunday_qwe_counter": "dimanche",
+  "pre2_tuesday_qwe_counter": "mardi"
 }
